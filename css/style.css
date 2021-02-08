@@ -1,0 +1,30 @@
+.box1{
+    background-color: rgb(197, 117, 117);
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+}
+.box2{
+    background-color: rgb(138, 68, 68);
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+}
+.box3{
+    background-color: rgb(71, 177, 196);
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+}
+.h1{
+    display: inline;
+}
+.p{
+    display: inline;
+}
+.a1{
+    display: block;
+}
+h2{
+    display: inline-block;
+}
